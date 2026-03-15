@@ -35,6 +35,6 @@ My journey in development started with Java and backend fundamentals. This gave 
 Continuing to grow in Android development, studying official documentation and following the professional field.
 
 ### Contacts
-- Telegram: [@sergeibrin]
+- Telegram: [https://t.me/SergeiBrin]
 - Email: [starodumovsy@gmail.com]
 - Resume: [https://perm.hh.ru/resume/cccf059bff1034b31b0039ed1f314230683457]
